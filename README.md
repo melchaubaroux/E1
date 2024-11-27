@@ -1,2 +1,2 @@
-# bibliometrics_projet
-Web scraping de données pour une startup de recommandation de livres
+# filmometrics_projet
+Web scraping de données pour une startup de recommandation de films
